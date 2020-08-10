@@ -18,3 +18,8 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
 🛒 Wires: http://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
+
+# Credits & Thanks
+
+  - Kudos to [cbm80amiga](https://github.com/cbm80amiga) for being the creator of the original ST7789 fast library without which this project would not exist.
+
