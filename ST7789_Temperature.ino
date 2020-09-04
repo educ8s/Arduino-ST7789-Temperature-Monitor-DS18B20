@@ -24,6 +24,9 @@ float previousTemp = -100.0;
 float tempC = 0;
 float minTemp = 200;
 float maxTemp = 0;
+
+Arduino_ST7789 tft = Arduino_ST7789(TFT_DC, TFT_RST);
+
 void setup() {
   Serial.begin(9600);
   Serial.println("Starting up ...");
