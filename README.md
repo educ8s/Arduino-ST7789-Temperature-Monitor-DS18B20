@@ -6,6 +6,8 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
   <img src="demo.jpg" alt="Running Sketch" width="640">
 </p>
 
+🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=-nECx4DOE84)
+
 # Parts Needed
 🛒 Arduino Uno: http://educ8s.tv/part/ArduinoUno
 
