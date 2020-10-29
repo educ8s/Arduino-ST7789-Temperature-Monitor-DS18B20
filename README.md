@@ -7,7 +7,7 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
 </p>
 
 <p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=-nECx4DOE84">Watch the video on YouTube</a>
+🎥 <a href="https://www.youtube.com/watch?v=-nECx4DOE84">Video Tutorial on YouTube</a>
 </p>
 
 <br>
