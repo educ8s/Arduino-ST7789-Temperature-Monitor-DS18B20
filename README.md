@@ -6,12 +6,14 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
   <img src="demo.jpg" alt="ST7789 Thermometer" width="1280">
 </p>
 
+<p align="center">
 🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=-nECx4DOE84)
+</p>
 
 <br>
 <br>
 <p align="center">
-| 📺 <a href="https://www.youtube.com/educ8s">YouTube</a>
+| 📺 <a href="https://www.youtube.com/educ8s">YouTube Channel</a>
 | 🌍 <a href="http://www.educ8s.tv">Website</a> | <br>
 </p>
 
