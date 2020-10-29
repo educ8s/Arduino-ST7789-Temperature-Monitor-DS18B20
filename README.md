@@ -3,7 +3,7 @@
 This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 display on Arduino.
 
 <p align="center">
-  <img src="demo.jpg" alt="Running Sketch" width="640">
+  <img src="demo.jpg" alt="ST7789 Thermometer" width="1280">
 </p>
 
 🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=-nECx4DOE84)
