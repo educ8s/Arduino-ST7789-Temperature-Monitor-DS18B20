@@ -11,7 +11,7 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
 <br>
 <br>
 | 📺 <a href="https://www.youtube.com/educ8s">YouTube</a>
-| 🌍 <a href="http://www.educ8s.tv">Website</a><br>
+| 🌍 <a href="http://www.educ8s.tv">Website</a>|<br>
 
 </p>
 
