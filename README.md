@@ -10,11 +10,9 @@ This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 
 
 <br>
 <br>
-🐦 <a href="https://twitter.com/">Twitter</a>
-| 📺 <a href="https://www.youtube.com/">YouTube</a>
-| 🌍 <a href="http://www.mkme.org"></a><br>
-Website, Forum and store are at http://mkme.org <br>
-Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
+| 📺 <a href="https://www.youtube.com/educ8s">YouTube</a>
+| 🌍 <a href="http://www.educ8s.tv">Website</a><br>
+
 </p>
 
 
